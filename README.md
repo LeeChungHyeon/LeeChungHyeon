@@ -1,4 +1,4 @@
-안녕하세요! 개발자 입니다. 여러 직군의 사람과 대화하는 것을 좋아하고 즐겁게 공부하고 있습니다. 
+안녕하세요! 개발자 입니다. 여러 직군의 사람과 대화하는 것을 좋아하고 즐겁게 공부하고 있습니다. <hr />
 이유없는 비난은 싫지만 이유가 있는 비판은 성장에 도움이 된다고 생각합니다.
 <br />
 ## How i work
@@ -9,8 +9,6 @@
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 #### I've used it before.
